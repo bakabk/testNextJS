@@ -27,7 +27,7 @@ export default function MainLayout(props) {
                 top: 0;
                 left: 0;
                 right: 0;
-                height: 30px;
+                height: 50px;
                 background-color: darkblue;
             }
             
@@ -35,11 +35,11 @@ export default function MainLayout(props) {
               color: white;
               padding: 5px 10px;
               text-decoration: none; 
-              line-height: 30px;
+              line-height: 50px;
             } 
             
             main {
-              margin-top: 30px;
+              margin-top: 50px;
               padding: 0.5rem;
             }
             
@@ -48,10 +48,10 @@ export default function MainLayout(props) {
               left: 0;
               right: 0;
               bottom: 0;
-              height: 30px;
+              height: 50px;
               background-color: darkred;
               color: white;
-              line-height: 30px;
+              line-height: 50px;
               text-align: center;
             }
         `}</style>
